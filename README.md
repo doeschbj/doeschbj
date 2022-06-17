@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @doeschbj
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in everything ...
+- 🌱 I’m currently learning a lot about machine learning.
 - 📫 You can reach me with my E-Mail: bjoern-doeschl@gmx.de
 
 <!---
